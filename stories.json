@@ -1,0 +1,421 @@
+{
+ "also": [
+  {
+   "n": 16,
+   "region": "MIDDLE EAST",
+   "text": "Iran warns US 'neither war nor peace' cannot last (NYT)"
+  },
+  {
+   "n": 17,
+   "region": "MIDDLE EAST",
+   "text": "Landmine blast kills 5 children in NW Syria (wires)"
+  },
+  {
+   "n": 18,
+   "region": "MIDDLE EAST",
+   "text": "Hormuz shipping attacks hit record in October (UK watch)"
+  },
+  {
+   "n": 19,
+   "region": "MIDDLE EAST",
+   "text": "Iran vows 'all means' against US blockade (wires)"
+  },
+  {
+   "n": 20,
+   "region": "EUROPE",
+   "text": "Brussels tables 22nd Russia sanctions package (Reuters)"
+  },
+  {
+   "n": 21,
+   "region": "EUROPE",
+   "text": "German military to use Kyiv's Delta tool (wires)"
+  },
+  {
+   "n": 22,
+   "region": "EUROPE",
+   "text": "Lib Dems: EU single market 'in under a year' (wires)"
+  },
+  {
+   "n": 23,
+   "region": "EUROPE",
+   "text": "German minister weighs privatising ZDF (Munich Eye)"
+  },
+  {
+   "n": 24,
+   "region": "AMERICAS",
+   "text": "Trump gives spy chief Clayton a third job (wires)"
+  },
+  {
+   "n": 25,
+   "region": "AMERICAS",
+   "text": "US sets up team to stop air-traffic failures (wires)"
+  },
+  {
+   "n": 26,
+   "region": "AMERICAS",
+   "text": "Trump to set up a commission for AI oversight (Munich Eye)"
+  },
+  {
+   "n": 27,
+   "region": "ASIA-PACIFIC",
+   "text": "N. Korea vows to shut Swiss office in Pyongyang (wires)"
+  },
+  {
+   "n": 28,
+   "region": "ASIA-PACIFIC",
+   "text": "South Korea's president reshuffles cabinet (wires)"
+  },
+  {
+   "n": 29,
+   "region": "ASIA-PACIFIC",
+   "text": "Seoul tracks N. Korean vessel near the NLL (wires)"
+  },
+  {
+   "n": 30,
+   "region": "ASIA-PACIFIC",
+   "text": "Japan factory activity up; services growth slows (Reuters)"
+  },
+  {
+   "n": 31,
+   "region": "ASIA-PACIFIC",
+   "text": "India may import 2m tonnes of sugar (Hindu BusinessLine)"
+  },
+  {
+   "n": 32,
+   "region": "ASIA-PACIFIC",
+   "text": "S. Korea rate rise seen Thursday — FORECAST (Reuters)"
+  },
+  {
+   "n": 33,
+   "region": "AFRICA",
+   "text": "Egypt rejects Khartoum drone attacks (wires)"
+  },
+  {
+   "n": 34,
+   "region": "OCEANIA",
+   "text": "Pacific goes it alone after COP31 collapse (PINA)"
+  },
+  {
+   "n": 35,
+   "region": "OCEANIA",
+   "text": "ANZ: RBA rate cut now seen in June 2027 (Reuters)"
+  },
+  {
+   "n": 36,
+   "region": "WORLD",
+   "text": "UN agrees 2 years of talks on autonomous weapons (wires)"
+  }
+ ],
+ "cards": [
+  {
+   "art": "oil",
+   "badge": "3 SITES HIT",
+   "deck": "Perm, Kaleykino, Novoshakhtinsk hit; fires reported. (General Staff)",
+   "n": 4,
+   "place": "PERM · TATARSTAN · ROSTOV",
+   "region": "EUROPE",
+   "title": "Ukraine hits three Russian oil sites"
+  },
+  {
+   "art": "blacklist",
+   "badge": "BLACKLIST",
+   "deck": "Washington moves to blacklist Megaspeed, the firm in the Nvidia scandal. (wires)",
+   "n": 5,
+   "place": "WASHINGTON, US",
+   "region": "AMERICAS",
+   "title": "US to blacklist Megaspeed"
+  },
+  {
+   "art": "podium",
+   "badge": "ATTACK IRAN?",
+   "deck": "Netanyahu presses Trump to strike Iran; Tehran warns the status quo cannot last.",
+   "n": 6,
+   "place": "JERUSALEM · WASHINGTON",
+   "region": "MIDDLE EAST",
+   "title": "Netanyahu urges Trump to attack Iran"
+  },
+  {
+   "art": "embassy",
+   "badge": "SUMMONED",
+   "deck": "Helsinki calls in Moscow's envoy over claims of airspace infringements. (wires)",
+   "n": 7,
+   "place": "HELSINKI, FINLAND",
+   "region": "EUROPE",
+   "title": "Finland summons Russia's ambassador"
+  },
+  {
+   "art": "ai",
+   "badge": "1 YEAR",
+   "deck": "The UN chief wants a global AI safety framework agreed within 12 months. (UN)",
+   "n": 8,
+   "place": "UNITED NATIONS",
+   "region": "WORLD",
+   "title": "Guterres: agree AI rules in a year"
+  },
+  {
+   "art": "rocket",
+   "badge": "FIRST SUITS",
+   "deck": "Oregon and Texas are the first US states to sue over Grok's sexual images. (wires)",
+   "n": 9,
+   "place": "OREGON · TEXAS, US",
+   "region": "AMERICAS",
+   "title": "Two states sue SpaceX over Grok"
+  },
+  {
+   "art": "island",
+   "badge": "EVACUATED",
+   "deck": "All residents of Kanton Island are moved to the main island. (PINA)",
+   "n": 10,
+   "place": "KANTON ISLAND, KIRIBATI",
+   "region": "OCEANIA",
+   "title": "Pacific island evacuated at a day's notice"
+  },
+  {
+   "art": "airport",
+   "badge": "DETENTION",
+   "deck": "A father and daughter are held at Seattle airport en route to a baptism. (The Hindu)",
+   "n": 11,
+   "place": "SEATTLE, US",
+   "region": "AMERICAS",
+   "title": "Father and daughter held by ICE"
+  },
+  {
+   "art": "chart",
+   "badge": "S&P 500",
+   "deck": "The viral ice-cream maker enters the big index, replacing AES. (MarketWatch)",
+   "n": 12,
+   "place": "NEW YORK, US",
+   "region": "WORLD",
+   "title": "SharkNinja joins the S&P 500"
+  },
+  {
+   "art": "furnace",
+   "badge": "53 YEARS",
+   "deck": "Duisburg steelworks closes a blast furnace after 53 years. (Munich Eye)",
+   "n": 13,
+   "place": "DUISBURG, GERMANY",
+   "region": "EUROPE",
+   "title": "Steel plant shuts furnace after 53 years"
+  },
+  {
+   "art": "factory",
+   "badge": "24 DEAD",
+   "deck": "Fire at the Cikande candy factory kills 24; the missing are still hunted. (NYT)",
+   "n": 14,
+   "place": "CIKANDE, INDONESIA",
+   "region": "ASIA-PACIFIC",
+   "title": "24 killed in Indonesia factory fire"
+  },
+  {
+   "art": "football",
+   "badge": "MNF",
+   "deck": "Burrow's Bengals visit Daniels' Commanders to close Week 11. (ESPN)",
+   "n": 15,
+   "place": "LANDOVER, US · NFL",
+   "region": "WORLD",
+   "title": "Monday Night Football: Bengals at Commanders"
+  }
+ ],
+ "date": "TUESDAY 24 NOVEMBER 2026",
+ "datecheck": "NOT TODAY'S NEWS — left out on purpose: COP31 ends with no deal (22–23 Nov) · Ukraine sinks a Russian corvette off Libya (23 Nov) · Democrats clinch 258 House seats (22 Nov) · Nvidia reinstates Huang (23 Nov) · Trump hits Newsom over 548 commutations (23 Nov) · O'Hare ground stop (23 Nov) · Don Toliver show evacuated (22 Nov).",
+ "heroes": [
+  {
+   "art": "kyiv",
+   "badge": "15 KILLED",
+   "certainty": "REPORTED",
+   "deck": "BBC: at least 15 killed as Russia intensifies attacks on Ukraine; the toll is up from 11 a day earlier.",
+   "n": 1,
+   "place": "KYIV REGION, UKRAINE",
+   "region": "EUROPE",
+   "title": "Russian strikes kill at least 15 in Kyiv region"
+  },
+  {
+   "art": "talks",
+   "badge": "4-WAY TALKS",
+   "certainty": "REPORTED",
+   "deck": "Ukraine's president calls for quadrilateral talks with Russia, Europe and the US 'as soon as possible'.",
+   "n": 2,
+   "place": "KYIV, UKRAINE",
+   "region": "EUROPE",
+   "title": "Zelenskyy urges four-way talks with Russia now"
+  },
+  {
+   "art": "court",
+   "badge": "COURT CASES",
+   "certainty": "REPORTED",
+   "deck": "Iran sues over military action against it; no court has yet taken up the cases, wires report.",
+   "n": 3,
+   "place": "TEHRAN, IRAN",
+   "region": "MIDDLE EAST",
+   "title": "Tehran files war-crimes suits in US and European courts"
+  }
+ ],
+ "kicker": "36 STORIES  ·  7 REGIONS  ·  EVERY ONE DATED TUESDAY 24 NOVEMBER 2026",
+ "masthead": "THE WORLD IN ONE DAY",
+ "pins": [
+  {
+   "lat": 50.4,
+   "lon": 30.5,
+   "n": 1
+  },
+  {
+   "lat": 50.4,
+   "lon": 30.5,
+   "n": 2
+  },
+  {
+   "lat": 35.7,
+   "lon": 51.4,
+   "n": 3
+  },
+  {
+   "lat": 58.0,
+   "lon": 56.3,
+   "n": 4
+  },
+  {
+   "lat": 38.9,
+   "lon": -77.0,
+   "n": 5
+  },
+  {
+   "lat": 31.8,
+   "lon": 35.2,
+   "n": 6
+  },
+  {
+   "lat": 60.2,
+   "lon": 25.0,
+   "n": 7
+  },
+  {
+   "lat": 40.7,
+   "lon": -74.0,
+   "n": 8
+  },
+  {
+   "lat": 44.0,
+   "lon": -120.5,
+   "n": 9
+  },
+  {
+   "lat": -2.8,
+   "lon": -171.7,
+   "n": 10
+  },
+  {
+   "lat": 47.6,
+   "lon": -122.3,
+   "n": 11
+  },
+  {
+   "lat": 40.7,
+   "lon": -74.0,
+   "n": 12
+  },
+  {
+   "lat": 51.4,
+   "lon": 6.8,
+   "n": 13
+  },
+  {
+   "lat": -6.2,
+   "lon": 106.3,
+   "n": 14
+  },
+  {
+   "lat": 38.9,
+   "lon": -77.0,
+   "n": 15
+  }
+ ],
+ "regions": [
+  {
+   "color": "#1f4e79",
+   "count": 9,
+   "name": "EUROPE"
+  },
+  {
+   "color": "#8b1a1a",
+   "count": 6,
+   "name": "MIDDLE EAST"
+  },
+  {
+   "color": "#14532d",
+   "count": 6,
+   "name": "AMERICAS"
+  },
+  {
+   "color": "#7c3a00",
+   "count": 7,
+   "name": "ASIA-PACIFIC"
+  },
+  {
+   "color": "#5b4a8a",
+   "count": 1,
+   "name": "AFRICA"
+  },
+  {
+   "color": "#0e6b6b",
+   "count": 3,
+   "name": "OCEANIA"
+  },
+  {
+   "color": "#555555",
+   "count": 4,
+   "name": "WORLD"
+  }
+ ],
+ "stats": [
+  {
+   "big": "15",
+   "label": "killed in Kyiv region strikes"
+  },
+  {
+   "big": "3",
+   "label": "Russian oil sites hit overnight"
+  },
+  {
+   "big": "24",
+   "label": "killed in Indonesia factory fire"
+  },
+  {
+   "big": "4",
+   "label": "way talks urged by Zelenskyy"
+  },
+  {
+   "big": "2",
+   "label": "states sue SpaceX over Grok"
+  },
+  {
+   "big": "1",
+   "label": "Pacific island evacuated"
+  }
+ ],
+ "utc": [
+  {
+   "text": "Finland summons Russia's envoy over airspace claims",
+   "time": "00:31"
+  },
+  {
+   "text": "Wires: Ukraine drones hit three Russian oil sites",
+   "time": "00:47"
+  },
+  {
+   "text": "Zelenskyy urges four-way talks 'as soon as possible'",
+   "time": "01:27"
+  },
+  {
+   "text": "Guterres: agree global AI rules within a year",
+   "time": "02:13"
+  },
+  {
+   "text": "NYT: Iran warns US the status quo cannot last",
+   "time": "06:05"
+  },
+  {
+   "text": "BBC: at least 15 killed in Kyiv region strikes",
+   "time": "06:22"
+  }
+ ]
+}
