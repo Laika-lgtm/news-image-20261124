@@ -50,10 +50,12 @@ box on the page and are NOT used as stories.
 14. 24 killed in Indonesia candy-factory fire — NYT, 24 Nov 06:05
     ("24 Killed After Fire Rips Through Candy Factory in Indonesia");
     AP 23 Nov: 34 missing, remains in 24 body bags, 29 rescued.
-15. Monday Night Football: Bengals at Commanders — ESPN, kickoff 8:15pm ET
-    Mon 23 Nov (01:15 UTC Tue 24 Nov); game closes Week 11. NOTE: this
-    card is a preview — the result was not yet known when the page was
-    drawn. If a later build knows the result, swap this card for the result.
+15. Commanders stun Bengals 22-20 on Monday Night Football — final,
+    verified 04:26 UTC 24 Nov: Drew Stevens' 26-yard field goal with 4
+    seconds left, after Evan McPherson's 56-yard field goal had put the
+    Bengals up 20-19 with 46 seconds left (bengals.com recap; Sportradar
+    final table; USA Today live). Third-quarter stadium blackout at
+    Northwest Stadium, Landover, also verified (ESPN via wires).
 
 ## Also 16–36 (sources as printed on the page)
 
