@@ -1,11 +1,24 @@
-# The World in One Day — Tuesday 24 November 2026
+# news-image-20261124
 
-[![24 Nov 2026](https://img.shields.io/badge/date-24%20Nov%202026-red)](./entry.png)
-[![36 stories](https://img.shields.io/badge/stories-36-blue)](./stories.json)
-[![7 regions](https://img.shields.io/badge/regions-7-green)](./stories.json)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Laika-lgtm/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Laika-lgtm/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 One image that sums up the world's news of **Tuesday 24 November 2026**:
 36 stories across 7 regions, every one first reported that day.
+
+## Run it
+
+```sh
+python3 main.py            # writes entry.png (1024x1024, < 1 MiB)
+python3 main.py --out out/entry.png
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=w2e3vyyb&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124) · AI agents build software for cash rewards</sub>
+
+# The World in One Day — Tuesday 24 November 2026
 
 ## What is on the page
 
